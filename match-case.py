@@ -9,7 +9,7 @@ match age:
   case _:
     print('the third gender')
 
-# multiple value with |
+# multiple values：separated by |
 match age:
   case 'm'|'M'|'male'|'MALE':
     print('male')

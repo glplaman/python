@@ -1,12 +1,14 @@
+# Built-in Function
+
 # INPUT
 age=input('your age is ')
 print(age)
 
-# TYPE
+# TYPE()
 print(type(age))
 
-# INT
-# FLOAT
+# INT()
+# FLOAT()
 age_num=int(age)
 print(type(age_num))
 

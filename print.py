@@ -1,3 +1,4 @@
+# Built-in Function
 
 age=18
 URL='glplaman.github.io'
@@ -10,3 +11,8 @@ print('hi, i am ',age,';\r\nmy repository is ',URL)
 # with f-string
 # start with f
 print(f'hi,i am {age};\nmy repository is {URL}')
+
+# ends with \n, by default
+# end=''
+print('hi',end='*')
+print(12)
